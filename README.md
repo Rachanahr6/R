@@ -5,4 +5,4 @@ function
 pointer
 data type
 memory management
-struct
+array
